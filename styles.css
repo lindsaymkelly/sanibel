@@ -1,3 +1,38 @@
 body {
-  background-color: blue;
+  background-color: blanchedalmond;
+}
+
+h2 {
+  text-align: center;
+}
+
+#island-pic {
+  margin-left: 22%;
+  border: 3px dashed teal;
+}
+
+.main-header {
+  text-align: center;
+  color: teal;
+  font-family: Trebuchet MS;
+  font-size: 1.2em;
+}
+
+.column-1 {
+  display: inline-block;
+  vertical-align: top;
+  width: 45%;
+  height: 200px;
+  padding: 1%;
+  background-color: darkseagreen;
+}  
+
+.column-2 {
+  display: inline-block;
+  vertical-align: top;
+  width: 45%;
+  height: 200px;
+  background-color: darkseagreen;
+  padding: 1%;
+
 }
