@@ -13,6 +13,17 @@ nav {
 
 table {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background-image: url("sand.jpg");
+  color: darkslategrey;
+}
+
+th {
+  font-size: 1.2em;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.2em;
 }
 
 #island-pic {
@@ -30,6 +41,7 @@ table {
 #intro {
   text-align: center;
   color: coral;
+  font-size: 1.2em;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 .column-1 {
@@ -39,6 +51,7 @@ table {
   height: 200px;
   padding: 1%;
   background-color: darkseagreen;
+  color: darkslategrey;
 }  
 
 .column-2 {
@@ -48,4 +61,21 @@ table {
   height: 200px;
   background-color: darkseagreen;
   padding: 1%;
+  color: darkslategrey;
+}
+
+a:link {
+    color: lightseagreen;
+}
+
+a:visited {
+    color: darkturquoise;
+}
+
+a:hover {
+    color: coral;
+}
+
+a:active {
+    color: blue;
 }
