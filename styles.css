@@ -4,6 +4,15 @@ body {
 
 h2 {
   text-align: center;
+  font-family: Trebuchet MS;
+}
+
+nav {
+  font-size: 1.4em;
+}
+
+table {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 #island-pic {
@@ -18,6 +27,11 @@ h2 {
   font-size: 1.2em;
 }
 
+#intro {
+  text-align: center;
+  color: coral;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
 .column-1 {
   display: inline-block;
   vertical-align: top;
@@ -34,5 +48,4 @@ h2 {
   height: 200px;
   background-color: darkseagreen;
   padding: 1%;
-
 }
